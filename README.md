@@ -24,7 +24,7 @@
 
 ## Technologies Used
 * c#
-* dotnet core
+* .net core
 
 
 ## Support and contact details
